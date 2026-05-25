@@ -1,0 +1,112 @@
+{
+  "zip_code": "28203",
+  "search_radius_miles": 50,
+  "products": [
+
+    { "name": "Chaos Rising Booster Bundle", "price": "$24.99", "max_price": 29.99,
+      "target_tcin": "95298172", "walmart_item_id": "19986002628",
+      "bestbuy_sku": "JJG2TL34H9", "bestbuy_numeric_sku": "6673721",
+      "gamestop_product_id": "20033748",
+      "pokemon_center_slug": "10-10403-109/pokemon-tcg-mega-evolution-chaos-rising-booster-bundle" },
+
+    { "name": "Chaos Rising Elite Trainer Box", "price": "$49.99", "max_price": 54.99,
+      "target_tcin": "95267143", "walmart_item_id": "19988614228",
+      "bestbuy_sku": "JJG2TL34RT", "bestbuy_numeric_sku": "6673725",
+      "gamestop_product_id": "20033749",
+      "pokemon_center_slug": "10-10399-111/pokemon-tcg-mega-evolution-chaos-rising-elite-trainer-box" },
+
+    { "name": "Chaos Rising Pokemon Center Exclusive ETB", "price": "$59.99", "max_price": 64.99,
+      "pokemon_center_slug": "10-10399-112/pokemon-tcg-mega-evolution-chaos-rising-pokemon-center-elite-trainer-box" },
+
+    { "name": "Scarlet & Violet White Flare Booster Bundle", "price": "$24.99", "max_price": 29.99,
+      "target_tcin": "94681785", "walmart_item_id": "18284016779",
+      "bestbuy_sku": "JJG2TLX84L", "bestbuy_numeric_sku": "6632399",
+      "gamestop_product_id": "20021664",
+      "pokemon_center_slug": "10-10035-115/pokemon-tcg-scarlet-and-violet-white-flare-booster-bundle-6-packs" },
+
+    { "name": "Scarlet & Violet White Flare Elite Trainer Box", "price": "$49.99", "max_price": 54.99,
+      "target_tcin": "94636860", "walmart_item_id": "18284016780",
+      "gamestop_product_id": "20021665",
+      "pokemon_center_slug": "10-10035-111/pokemon-tcg-scarlet-and-violet-white-flare-elite-trainer-box" },
+
+    { "name": "Prismatic Evolutions Booster Bundle", "price": "$24.99", "max_price": 29.99,
+      "target_tcin": "93954446", "walmart_item_id": "14803962651",
+      "bestbuy_sku": "JJG2TL23JK", "bestbuy_numeric_sku": "6608206",
+      "gamestop_product_id": "418865",
+      "pokemon_center_slug": "10-10025-101/pokemon-tcg-scarlet-and-violet-prismatic-evolutions-booster-bundle-6-packs" },
+
+    { "name": "Mega Evolution Perfect Order Booster Bundle", "price": "$24.99", "max_price": 29.99,
+      "target_tcin": "95230447", "walmart_item_id": "19380764160",
+      "bestbuy_sku": "JJG2TL3QK2", "gamestop_product_id": "20031960",
+      "pokemon_center_slug": "10-10377-109/pokemon-tcg-mega-evolution-perfect-order-booster-bundle-6-packs" },
+
+    { "name": "Mega Evolution Perfect Order Elite Trainer Box", "price": "$49.99", "max_price": 54.99,
+      "target_tcin": "95230445", "walmart_item_id": "19380764161",
+      "gamestop_product_id": "20031961",
+      "pokemon_center_slug": "10-10377-111/pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box" },
+
+    { "name": "Mega Evolution Phantasmal Flames Booster Bundle", "price": "$24.99", "max_price": 29.99,
+      "target_tcin": "94884496", "walmart_item_id": "17467893210",
+      "gamestop_product_id": "20011832",
+      "pokemon_center_slug": "10-10177-109/pokemon-tcg-mega-evolution-phantasmal-flames-booster-bundle-6-packs" },
+
+    { "name": "Mega Evolution Phantasmal Flames Elite Trainer Box", "price": "$49.99", "max_price": 54.99,
+      "target_tcin": "94860231", "walmart_item_id": "17467893211",
+      "gamestop_product_id": "20011833",
+      "pokemon_center_slug": "10-10177-111/pokemon-tcg-mega-evolution-phantasmal-flames-elite-trainer-box" },
+
+    { "name": "Mega Evolution Ascended Heroes Booster Bundle", "price": "$24.99", "max_price": 29.99,
+      "target_tcin": "95120834", "walmart_item_id": "19012847391",
+      "gamestop_product_id": "20025741",
+      "pokemon_center_slug": "10-10290-109/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-6-packs" },
+
+    { "name": "Scarlet & Violet Surging Sparks Booster Bundle", "price": "$24.99", "max_price": 29.99,
+      "target_tcin": "91619929", "walmart_item_id": "13891047291",
+      "gamestop_product_id": "20001923",
+      "pokemon_center_slug": "10-10009-101/pokemon-tcg-scarlet-and-violet-surging-sparks-booster-bundle-6-packs" },
+
+    { "name": "Scarlet & Violet Surging Sparks Elite Trainer Box", "price": "$49.99", "max_price": 54.99,
+      "target_tcin": "91619922", "walmart_item_id": "13891047292",
+      "gamestop_product_id": "20001924",
+      "pokemon_center_slug": "10-10009-111/pokemon-tcg-scarlet-and-violet-surging-sparks-elite-trainer-box" },
+
+    { "name": "Scarlet & Violet Destined Rivals Booster Bundle", "price": "$24.99", "max_price": 29.99,
+      "target_tcin": "94300067", "walmart_item_id": "16748291034",
+      "gamestop_product_id": "20027183",
+      "pokemon_center_slug": "10-10321-101/pokemon-tcg-scarlet-and-violet-destined-rivals-booster-bundle-6-packs" },
+
+    { "name": "Scarlet & Violet Destined Rivals Elite Trainer Box", "price": "$49.99", "max_price": 54.99,
+      "target_tcin": "94300069", "walmart_item_id": "16748291035",
+      "gamestop_product_id": "20027184",
+      "pokemon_center_slug": "10-10321-111/pokemon-tcg-scarlet-and-violet-destined-rivals-elite-trainer-box" },
+
+    { "name": "Scarlet & Violet Stellar Crown Booster Bundle", "price": "$24.99", "max_price": 29.99,
+      "target_tcin": "91619942", "walmart_item_id": "12938471029",
+      "gamestop_product_id": "19998821",
+      "pokemon_center_slug": "10-09989-101/pokemon-tcg-scarlet-and-violet-stellar-crown-booster-bundle-6-packs" },
+
+    { "name": "Scarlet & Violet Stellar Crown Elite Trainer Box", "price": "$49.99", "max_price": 54.99,
+      "target_tcin": "91619912", "walmart_item_id": "12938471030",
+      "gamestop_product_id": "19998822",
+      "pokemon_center_slug": "10-09989-111/pokemon-tcg-scarlet-and-violet-stellar-crown-elite-trainer-box" },
+
+    { "name": "Scarlet & Violet Journey Together Booster Bundle", "price": "$24.99", "max_price": 29.99,
+      "target_tcin": "94300074", "walmart_item_id": "15928374610",
+      "gamestop_product_id": "20019847",
+      "pokemon_center_slug": "10-10250-101/pokemon-tcg-scarlet-and-violet-journey-together-booster-bundle-6-packs" },
+
+    { "name": "Scarlet & Violet 151 Elite Trainer Box", "price": "$49.99", "max_price": 59.99,
+      "target_tcin": "88897899", "walmart_item_id": "9843721056",
+      "gamestop_product_id": "20021521",
+      "pokemon_center_slug": "10-09889-111/pokemon-tcg-scarlet-and-violet-151-elite-trainer-box" },
+
+    { "name": "Scarlet & Violet 151 Pokemon Center Elite Trainer Box", "price": "$59.99", "max_price": 69.99,
+      "target_tcin": "1001558942",
+      "pokemon_center_slug": "10-09889-112/pokemon-tcg-scarlet-and-violet-151-pokemon-center-elite-trainer-box" },
+
+    { "name": "Crown Zenith Elite Trainer Box", "price": "$49.99", "max_price": 59.99,
+      "walmart_item_id": "1901847291",
+      "gamestop_product_id": "17207521",
+      "pokemon_center_slug": "crown-zenith-elite-trainer-box" }
+  ]
+}
